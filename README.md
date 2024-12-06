@@ -72,7 +72,7 @@ Contributions are welcome!
 ## 📬 Contact  
 For any queries or suggestions, feel free to reach out:  
 - **GitHub**: [rajat2229](https://github.com/rajat2229)
-- **Gmail**:[rajat2229.be21@chitkara.edu.in](mailto:rajat2229.be21@chtikara.edu.in)
+- **Gmail**:[rajatkumar](mailto:rajat2229.be21@chtikara.edu.in)
 
 
 
